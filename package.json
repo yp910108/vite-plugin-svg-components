@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-svg-components",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform svg to component.",
   "homepage": "https://github.com/yp910108/vite-plugin-svg-components",
   "repository": {
